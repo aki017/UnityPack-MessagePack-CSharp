@@ -1,0 +1,15 @@
+{
+    "name": "info.aki017.msgpack",
+    "displayName": "MessagePack-CSharp",
+    "author": "neuecc",
+    "version": "1.7.3040901",
+    "unity": "2018.1",
+    "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#].",
+    "keywords": [
+        "messagepack",
+        "serialization",
+        "msgpack",
+        "lz4"
+    ],
+    "category": "Unity"
+}
